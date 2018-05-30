@@ -1,6 +1,6 @@
 # iTerm2-borderless
 
-![iTerm2-borderless](https://github.com/jasonwoodland/iTerm2-borderless/blob/master/Preview.png?raw=true)
+![iTerm2-borderless](https://github.com/anuragroy11/iTerm2-borderless/blob/master/Preview.png)
 
 My custom iTerm2 patch and build. Consistently updated.
 
